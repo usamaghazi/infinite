@@ -1,0 +1,70 @@
+.Cooler{
+    color:whitesmoke;
+    padding-left: 15px;
+}
+.Pixels{
+    margin-left: 0%;
+    padding-left: 0%;
+
+}
+.Back{
+    background-color: #2E2F4C ;
+}
+.Count{
+    border-radius: 50%;
+    background-color: #F008CA ;
+    width: 20px;
+    height: 20px;
+}
+.Countt{
+    border-radius: 50%;
+    background-color: #70EB15 ;
+    width: 20px;
+    height: 20px;
+}
+.Dashboard{
+    list-style: none;
+    list-style-position:outside;
+    list-style-image: url(/src/Pics/dashboard.png);
+}
+.Profile{
+    list-style: none;
+    list-style-position:outside;
+    list-style-image: url(/src/Pics/profile.png);
+}
+.Chat{
+    list-style: none;
+    list-style-position:outside;
+    list-style-image: url(/src/Pics/chat.png);
+}
+.Calendar{
+    list-style: none;
+    list-style-position:outside;
+    list-style-image: url(/src/Pics/calendar.png);
+}
+.Notice{
+    list-style: none;
+    list-style-position:outside;
+    list-style-image: url(/src/Pics/notice.png);
+}
+.Assessments{
+    list-style: none;
+    list-style-position:outside;
+    list-style-image: url(/src/Pics/assessment.png);
+}
+.Result{
+    list-style: none;
+    list-style-position:outside;
+    list-style-image: url(/src/Pics/result.png);
+}
+.Course{
+    list-style: none;
+    list-style-position:outside;
+    list-style-image: url(/src/Pics/course.png);
+    
+}
+.Faq{
+    list-style: none;
+    list-style-position:outside;
+    list-style-image: url(/src/Pics/faqs.png);
+}

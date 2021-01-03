@@ -1,0 +1,23 @@
+.Button{
+    border: none;
+    background-color: transparent;
+}
+.Buttonn{
+    border: none;
+    background-color: transparent;
+}
+.Shadow{
+    box-shadow: 0px 1px 20px 0px #EAF0E6  ;
+}
+.Buttonn::after{
+    content: "2";
+    color:white;
+    font-size: 10px;
+    position: absolute;
+    top:-4px;
+    left:30px;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    background-color: #388305 ;
+}

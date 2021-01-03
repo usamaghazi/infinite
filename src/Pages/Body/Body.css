@@ -1,0 +1,9 @@
+.Icon{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: #EFF7E9;
+}
+.Shadow{
+    box-shadow: 4px 4px 5px 3px #EAF0E6  ;
+}
