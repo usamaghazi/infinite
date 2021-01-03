@@ -96,7 +96,7 @@ class Body extends Component {
                                   <img src="images/calandar.png" alt="cal"/>
                                 </div>
                                 <h4 className="card-subtitle mb-2  mt-4">Up Coming Events</h4>
-                                <h6 className="card-subtitle text-muted mt-2"><span>ksjsd sdknfksdnf skdfnskjfnksdj skdnfsknfksj skdnfsknfsk ksnfdksnf ksdjfksfd skdfnksfn </span></h6> 
+                                <h6 className="card-subtitle text-muted mt-2"><span style={{fontSize:'1vw'}}>ksjsd sdknfksdnf skdfnskjfnksdj skdnfsknfksj skdnfsknfsk ksnfdksnf ksdjfksfd skdfnksfn </span></h6> 
                               </div>
                               </div>
                               </div>
@@ -104,7 +104,7 @@ class Body extends Component {
                       </div>
                       {/*chart.... */}
                       <div className="col-md-8 mt-4">
-                          <div className="card Shadow">
+                          <div className="card Shadow pb-1">
                               <div className="card-body">
                                   <div className="row">
                                     <div className="col-md-10">

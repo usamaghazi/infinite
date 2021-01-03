@@ -68,3 +68,10 @@
     list-style-position:outside;
     list-style-image: url(/src/Pics/faqs.png);
 }
+.Cooler:hover{
+    color: green;
+}
+.Pol{
+    color:green;
+    padding-left: 15px;
+}
